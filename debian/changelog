@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-influxdata-influxdb1-client (0.0~git20220302.a9ab567-2) unstable; urgency=medium
 
-  * Initial release
+  * Source-only upload for migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mathias Gibbens <gibmat@debian.org>  Tue, 22 Nov 2022 22:35:17 +0000
+
+golang-github-influxdata-influxdb1-client (0.0~git20220302.a9ab567-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1024513)
+
+ -- Mathias Gibbens <gibmat@debian.org>  Mon, 21 Nov 2022 00:41:23 +0000
